@@ -1,0 +1,104 @@
+ {
+    "Movies": [
+        {
+            "name": "The Godfather",
+            "date": "20 april 1972",
+            "rating": "5"
+        },
+        {
+            "name": "Casablanca",
+            "date": "2 may 2000",
+            "rating": "4"
+        },
+        {
+            "name": "Citizen Kane ",
+            "date": "1 june 1941",
+            "rating": "4.5"
+        },
+        {
+            "name": "Raiders of the Lost Ark",
+            "date": "3 march 1981",
+            "rating": "4"
+        },
+        {
+            "name": "La Dolce Vita",
+            "date": "15 august 1960",
+            "rating": "4.5"
+        },
+        {
+            "name": "Seven Samurai ",
+            "date": " 1 may 1954",
+            "rating": "5"
+        },
+        {
+            "name": "In the Mood for Love",
+            "date": "2 jan 2000",
+            "rating": "5"
+        },
+        {
+            "name": "There Will Be Blood ",
+            "date": "30 june 2007",
+            "rating": "5"
+        },
+        {
+            "name": "Singin' in the Rain",
+            "date": "25 nov 2005",
+            "rating": "5"
+        },
+        {
+            "name": " Goodfellas",
+            "date": "12 dec 1990",
+            "rating": "4.5"
+        },
+        {
+            "name": "North by Northwest ",
+            "date": "21 aug 1959",
+            "rating": "5"
+        },
+        {
+            "name": "Mulholland Drive",
+            "date": "24 june2001",
+            "rating": "5"
+        },
+        {
+            "name": "Bicycle Thieves",
+            "date": "2 aug 1948",
+            "rating": "5"
+        },
+        {
+            "name": " The Dark Knight",
+            "date": "5 sept 2008",
+            "rating": "4"
+        },
+        {
+            "name": "City Lights",
+            "date": "1 feb 1931",
+            "rating": "5"
+        },
+        {
+            "name": "Grand Illusion",
+            "date": " 1july 1937",
+            "rating": "5"
+        },
+        {
+            "name": " His Girl Friday",
+            "date": "2 may 2000",
+            "rating": "5"
+        },
+        {
+            "name": "The Red Shoes",
+            "date": "20 oct 1948",
+            "rating": "5"
+        },
+        {
+            "name": "Vertigo",
+            "date": "25 march 2001",
+            "rating": "5"
+        },
+        {
+            "name": "Beau Travail",
+            "date": "9 sept 1999",
+            "rating": "5"
+        }
+    ]
+}
